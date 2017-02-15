@@ -10,7 +10,6 @@ declared-services:
   services:
   - sample-node-red-cloudantNoSQLDB
   - sample-node-red-LanguageTranslator
-  env:
-    NODE_RED_STORAGE_NAME: sample-node-red-cloudantNoSQLDB
+  
 
     
