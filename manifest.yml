@@ -8,7 +8,7 @@ declared-services:
   sample-node-red-cloudantNoSQLDB:
     label: cloudantNoSQLDB
     plan:  Lite
-  sample-node-red-LanguageTranslator
+  sample-node-red-LanguageTranslator:
     label:  language_translator
     plan:  Standard 
     
