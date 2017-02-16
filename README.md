@@ -1,10 +1,10 @@
-Node-RED Bluemix Starter Application
+Language Translator Node-RED Bluemix Demo Application
 ====================================
 
 ### Node-RED in BlueMix
 
-This repository is an example Node-RED application that can be deployed into
-Bluemix with only a couple clicks. Try it out for yourself right now by clicking:
+This repository is a Node-RED application that has a default flow for Language Translation.
+It can be deployed into luemix with only a couple clicks. Try it out for yourself right now by clicking:
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ValerieLampkin/node-red-bluemix-starter.git)
 
@@ -19,7 +19,7 @@ It will automatically create an instance of the Cloudant service, call it
 Node-RED instance will store its data. If you deploy multiple instances of
 Node-RED from this repository, they will share the one Cloudant instance.
 
-It includes a set of default flows that are automatically deployed the first time
+It includes a default flow that is automatically deployed the first time
 Node-RED runs.
 
 ### Customising Node-RED
