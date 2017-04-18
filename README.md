@@ -4,7 +4,7 @@ Language Translator Node-RED Bluemix Demo Application
 ### Node-RED in BlueMix
 
 This repository is a Node-RED application that has a default flow for Language Translation.
-It can be deployed into luemix with only a couple clicks. Try it out for yourself right now by clicking:
+It can be deployed into Bluemix with only a couple clicks. Try it out for yourself right now by clicking:
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ValerieLampkin/node-red-bluemix-starter.git)
 
